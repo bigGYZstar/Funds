@@ -1,0 +1,6 @@
+fund_id,fund_name,management_company,inception_date,share_class,currency_hedge,benchmark,expense_ratio,aum_latest,fund_type,is_index_fund,investment_style,is_theme_fund,is_leveraged,is_fund_of_funds,status,redemption_date,inclusion_reason
+SAMPLE001,サンプル米国株式ファンドA,サンプル投信株式会社,2018-01-15,再投資型・販売手数料なし,なし,S&P500指数（配当込み、円換算ベース）,1.65,50000,アクティブ,FALSE,成長,FALSE,FALSE,FALSE,運用中,,条件を満たすアクティブファンド
+SAMPLE002,サンプル米国株式ファンドB,サンプル投信株式会社,2017-06-20,再投資型・販売手数料なし,なし,なし,1.80,35000,アクティブ,FALSE,バリュー,FALSE,FALSE,FALSE,運用中,,条件を満たすアクティブファンド
+SAMPLE003,サンプルS&P500インデックスファンド,サンプル投信株式会社,2016-03-10,再投資型・販売手数料なし,なし,S&P500指数（配当込み、円換算ベース）,0.15,120000,パッシブ,TRUE,,FALSE,FALSE,FALSE,運用中,,S&P500連動パッシブファンド
+SAMPLE004,サンプル米国株式ファンドC（ヘッジあり）,サンプル投信株式会社,2019-04-01,再投資型・販売手数料なし,あり,S&P500指数（配当込み、為替ヘッジあり）,1.90,25000,アクティブ,FALSE,ブレンド,FALSE,FALSE,FALSE,運用中,,条件を満たすアクティブファンド（ヘッジあり）
+SAMPLE005,サンプルS&P500インデックスファンド（ヘッジあり）,サンプル投信株式会社,2018-08-15,再投資型・販売手数料なし,あり,S&P500指数（配当込み、為替ヘッジあり）,0.20,80000,パッシブ,TRUE,,FALSE,FALSE,FALSE,運用中,,S&P500連動パッシブファンド（ヘッジあり）
